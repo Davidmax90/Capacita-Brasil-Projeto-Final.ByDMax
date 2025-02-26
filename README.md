@@ -29,11 +29,11 @@ Este projeto foi desenvolvido como parte do curso **Programa Residência em TIC 
 ## 📌 Sobre o Jogo 
 
 ### 🔹 Pré-requisitos  
-- Ter Python instalado 
-- Clonar este repositório:  
-  ```bash
-  git clone https://github.com/Davidmax90/Capacita-Brasil-Projeto-Final.ByDMax.git
-  cd Capacita-Brasil-Projeto-Final.ByDMax 
+  - Ter Python instalado 
+    - Clonar este repositório:  
+      ```bash
+      git clone https://github.com/Davidmax90/Capacita-Brasil-Projeto-Final.ByDMax.git
+      cd Capacita-Brasil-Projeto-Final.ByDMax 
 
 
 ## 👥 Equipe
@@ -43,6 +43,9 @@ Este projeto foi desenvolvido como parte do curso **Programa Residência em TIC 
 - Bianca Leão 
 - Ariel Rodrigues 
 - Diego da Silva
+<br>
 
-## 📜 Licença
-Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+> [!WARNING]
+> ### 📜 Licença
+> Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
